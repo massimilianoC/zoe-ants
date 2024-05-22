@@ -1,3 +1,14 @@
+.masked{
+  -webkit-mask-image: url(gif/ant.gif);
+  -webkit-mask-size: auto;
+  -webkit-mask-size: 200px;
+  -webkit-mask-repeat: no-repeat;
+  mask-image: url(gif/ant.gif);
+  mask-size: auto;
+  mask-size: 200px;
+  mask-repeat: no-repeat;
+}
+
 svg {
   width: 4
       400px;
