@@ -42,10 +42,10 @@ Based on this GIF, you can print coloring templates on A4 paper (or similar solu
 ### [IT - ITALIANO]
 Progetto interattivo HTML/JS
 
-Scarica il repository,
-Esegui su un server locale,
-Premi "Alt" per catturare il tuo design personalizzato di formiche,
-Divertiti, fai il fork, modifica e condividi!
+1) Scarica il repository,
+2) Esegui su un server locale,
+3) Premi "Alt" per catturare il tuo design personalizzato di formiche,
+4) Divertiti, fai il fork, modifica e condividi!
 
 ## Breve descrizione
 
