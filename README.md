@@ -6,7 +6,16 @@
 ### 3) press "Alt" to capture your custom ant desing,
 ### 4) enjoy, fork, edit and share!
 
-## [IT] Breve descrizione
+-----
+### [IT - ITALIANO]
+Progetto interattivo HTML/JS
+
+Scarica il repository,
+Esegui su un server locale,
+Premi "Alt" per catturare il tuo design personalizzato di formiche,
+Divertiti, fai il fork, modifica e condividi!
+
+## Breve descrizione
 
 Il repository include tutti i file necessari per testare, analizzare e modificare l'applicazione.
 
