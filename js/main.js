@@ -82,7 +82,7 @@
         //reset condition
         if (counter>=80){
             for(i=0;i<counter;i++){
-                var ant = document.querySelector('.ball');
+                var ant = document.querySelector('.actor');
                 ant.parentNode.removeChild(ant);
                 //counter--;
             }
@@ -94,31 +94,31 @@
         elem.setAttribute("id","new_item"+Math.random().toString());   
         switch(offsetAnimation){
             case 0:
-                elem.setAttribute("class","masked ball");
+                elem.setAttribute("class","masked actor");
                 offsetAnimation=1;
                 break;
             case 1:
-                elem.setAttribute("class","masked ball delay1");
+                elem.setAttribute("class","masked actor delay1");
                 offsetAnimation=2;
                 break;
             case 2:
-                elem.setAttribute("class","masked ball delay2");
+                elem.setAttribute("class","masked actor delay2");
                 offsetAnimation=3;
                 break;
             case 3:
-                elem.setAttribute("class","masked ball delay3");
+                elem.setAttribute("class","masked actor delay3");
                 offsetAnimation=4;
                 break;
             case 4:
-                elem.setAttribute("class","masked ball delay4");
+                elem.setAttribute("class","masked actor delay4");
                 offsetAnimation=5;
                 break;
             case 5:
-                elem.setAttribute("class","masked ball delay5");
+                elem.setAttribute("class","masked actor delay5");
                 offsetAnimation=6;
                 break;
             case 6:
-                elem.setAttribute("class","masked ball delay6");
+                elem.setAttribute("class","masked actor delay6");
                 offsetAnimation=0;
                 break;
         }
