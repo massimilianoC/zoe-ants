@@ -8,6 +8,32 @@ div.select {
   margin: 0 0 1em 0;
  }
 
+ 
+svg {
+  width: 4
+      400px;
+  display: block;
+  position: absolute;
+}
+
+svg.path {
+  width: 500px;
+  display: block;
+  position: absolute;
+}
+
+ .masked{
+  -webkit-mask-image: url(../gif/ant.gif);
+  -webkit-mask-size: auto;
+  -webkit-mask-size: 200px;
+  -webkit-mask-repeat: no-repeat;
+  mask-image: url(../gif/ant.gif);
+  mask-size: auto;
+  mask-size: 200px;
+  mask-repeat: no-repeat;
+}
+
+
 .select{
     position: fixed;
     top: 1000px;
