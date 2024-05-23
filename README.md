@@ -10,11 +10,11 @@ The repository includes all the necessary files to test, analyze, and modify the
 
 The key files are:
 
-index.html
-js/main.js
-css/main.css
-css/animations.css
-gif/ant.gif
+- index.html
+- js/main.js
+- css/main.css
+- css/animations.css
+- gif/ant.gif
 
 ### index.html
 Launches the application and includes the scripts for the app to function.
