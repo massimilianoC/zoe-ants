@@ -6,7 +6,39 @@
 ### 3) press "Alt" to capture your custom ant desing,
 ### 4) enjoy, fork, edit and share!
 
+The repository includes all the necessary files to test, analyze, and modify the application.
+
+The key files are:
+
+index.html
+js/main.js
+css/main.css
+css/animations.css
+gif/ant.gif
+
+### index.html
+Launches the application and includes the scripts for the app to function.
+
+### js/main.js
+Handles the interaction of the application:
+- Captures a screenshot/photo from the webcam
+- Creates a new element with the captured screenshot
+
+### css/main.css
+Defines the graphic style of the page elements,
+the position of the elements, and the background image.
+
+### css/animations.css
+Defines the animated behavior of the actors (ants),
+includes the SVG path that the actors will follow, and also includes predefined offsets
+to differentiate the starting points of the animations on the path.
+
+### gif/ant.gif
+This is the animated GIF image that masks the screenshot/photo.
+Based on this GIF, you can print coloring templates on A4 paper (or similar solutions).
+
 -----
+
 ### [IT - ITALIANO]
 Progetto interattivo HTML/JS
 
