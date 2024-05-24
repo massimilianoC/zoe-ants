@@ -1,4 +1,5 @@
 # ZOE ANTS
+![Example](/png/zoe_ants.png)
 ## Interactive html/js project
 
 1) download repository,
